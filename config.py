@@ -2,7 +2,7 @@
 Конфигурация бота ViGarik Squad
 """
 
-TOKEN = "8544921248:AAH-2stTHt8WdO_x3lm4H41BQ52BCcSoEFk"
+TOKEN = ""
 # ID закрытого чата администрации для логов (пока оставляем None, бот сам его заполнит)
 LOGS_CHAT_ID = -1003900162237
 
